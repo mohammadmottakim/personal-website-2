@@ -811,7 +811,7 @@ footer{
     margin: 10px 0;
 }
 
-.footer-singelitem-parent .footer-singelitem:nth-child(3)p{
+.footer-singelitem-parent .footer-singelitem:nth-child(3) p{
     margin: 10px 0;
 }
 
